@@ -1,0 +1,2 @@
+import { IS_WINDOWS, PLATFORM, ARCH, DOTNET_EXECUTABLE, ILSPY_EXECUTABLE, getPackageRoot, getPaths } from '../scripts/utils';
+export { IS_WINDOWS, PLATFORM, ARCH, DOTNET_EXECUTABLE, ILSPY_EXECUTABLE, getPackageRoot, getPaths };
