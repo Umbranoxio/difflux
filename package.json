@@ -1,6 +1,5 @@
 {
   "name": "@umbranoxio/difflux",
-  "type": "module",
   "version": "0.0.1",
   "description": "A TypeScript library for decompiling and diffing .NET assemblies using ILSpy",
   "main": "dist/index.js",
